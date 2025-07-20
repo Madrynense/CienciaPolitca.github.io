@@ -75,7 +75,7 @@ function initPlanDeEstudio() {
     const cuatrimestreSelect = document.getElementById('cuatrimestre-select');
     const resultsContainer = document.getElementById('results-container');
     const noResultsMessage = document.getElementById('no-results-message');
-    const initialMessage = document.getElementById('initial-message');
+    
 
     function getMateriaById(id) {
         return planDeEstudio.find(m => m.id === id);
@@ -90,14 +90,14 @@ function initPlanDeEstudio() {
         
         // Si no hay filtros seleccionados, mostrar mensaje inicial
         if (!selectedYear && !selectedCuatrimestre) {
-            initialMessage.classList.remove('hidden');
+            
             resultsContainer.classList.add('hidden');
             noResultsMessage.classList.add('hidden');
             return;
         }
         
         // Ocultar mensaje inicial
-        initialMessage.classList.add('hidden');
+        
         
         // Filtrar materias según los criterios seleccionados
         let materias = planDeEstudio;
