@@ -1,0 +1,1472 @@
+[
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Febrero",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 18
+ },
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Marzo",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 11
+ },
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Marzo",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 18
+ },
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Abril",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 22
+ },
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Mayo",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 27
+ },
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Junio",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 24
+ },
+ {
+  "materia": "Actores y Procesos Políticos",
+  "mes": "Agosto",
+  "tribunal": "Sanz-Perez-Soler",
+  "hora": 830,
+  "fecha": 19
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Febrero",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 20
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Marzo",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 6
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Marzo",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 20
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Abril",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 24
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Mayo",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 29
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Junio",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 26
+ },
+ {
+  "materia": "Antropología",
+  "mes": "Agosto",
+  "tribunal": "Obregon-Martinez-Muñoz",
+  "hora": 1400,
+  "fecha": 21
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Febrero",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 21
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Marzo",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 7
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Marzo",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 21
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Abril",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 25
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Mayo",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 30
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Junio",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 24
+ },
+ {
+  "materia": "Ciencia Política",
+  "mes": "Agosto",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1430,
+  "fecha": 22
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Febrero",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 18
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Marzo",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 11
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Marzo",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 18
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Abril",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 22
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Mayo",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 27
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Junio",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 24
+ },
+ {
+  "materia": "Derecho Administrativo",
+  "mes": "Agosto",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 19
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Febrero",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 180225
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Marzo",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 110325
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Marzo",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 180325
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Abril",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 22
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Mayo",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 27
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Junio",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 24
+ },
+ {
+  "materia": "Derecho Publico",
+  "mes": "Agosto",
+  "tribunal": "Gonzalez-Vallejos-Rossio Coblier",
+  "hora": 1430,
+  "fecha": 19
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Febrero",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 190225
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Marzo",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 50325
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Marzo",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 190325
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Abril",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 23
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Mayo",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 28
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Junio",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 25
+ },
+ {
+  "materia": "Derecho y Sistemas Normativos",
+  "mes": "Agosto",
+  "tribunal": "Vallejos-Rossio Coblier-Gonzalez",
+  "hora": 1430,
+  "fecha": 20
+ },
+ {
+  "materia": "Economía",
+  "mes": "Febrero",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 20
+ },
+ {
+  "materia": "Economía",
+  "mes": "Marzo",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 6
+ },
+ {
+  "materia": "Economía",
+  "mes": "Marzo",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 20
+ },
+ {
+  "materia": "Economía",
+  "mes": "Abril",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 24
+ },
+ {
+  "materia": "Economía",
+  "mes": "Mayo",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 29
+ },
+ {
+  "materia": "Economía",
+  "mes": "Junio",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 26
+ },
+ {
+  "materia": "Economía",
+  "mes": "Agosto",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1330,
+  "fecha": 21
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Febrero",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 20
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Marzo",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 6
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Marzo",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 20
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Abril",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 24
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Mayo",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 29
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Junio",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 26
+ },
+ {
+  "materia": "Economía Política I",
+  "mes": "Agosto",
+  "tribunal": "Majersic-Cifuentes-Sterner",
+  "hora": 1430,
+  "fecha": 21
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Febrero",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 21
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Marzo",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 7
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Marzo",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 21
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Abril",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 25
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Mayo",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 30
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Junio",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 24
+ },
+ {
+  "materia": "Economía Política II",
+  "mes": "Agosto",
+  "tribunal": "Sterner-Majersic-Cifuentes",
+  "hora": 1430,
+  "fecha": 22
+ },
+ {
+  "materia": "Ética",
+  "mes": "Febrero",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 20
+ },
+ {
+  "materia": "Ética",
+  "mes": "Marzo",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 6
+ },
+ {
+  "materia": "Ética",
+  "mes": "Marzo",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 20
+ },
+ {
+  "materia": "Ética",
+  "mes": "Abril",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 24
+ },
+ {
+  "materia": "Ética",
+  "mes": "Mayo",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 29
+ },
+ {
+  "materia": "Ética",
+  "mes": "Junio",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 26
+ },
+ {
+  "materia": "Ética",
+  "mes": "Agosto",
+  "tribunal": "Cittadini-Vega-Navarro",
+  "hora": 1700,
+  "fecha": 21
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Febrero",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 17
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Marzo",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 10
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Marzo",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 17
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Abril",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 21
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Mayo",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 26
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Junio",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 23
+ },
+ {
+  "materia": "Filosofía",
+  "mes": "Agosto",
+  "tribunal": "Vega-Cittadini-Rius",
+  "hora": 900,
+  "fecha": 18
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Febrero",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 21
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Marzo",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 7
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Marzo",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 21
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Abril",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 25
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Mayo",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 30
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Junio",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 24
+ },
+ {
+  "materia": "Filosofía y Métodos de las CS SC",
+  "mes": "Agosto",
+  "tribunal": "Soler-Perez-Aguilar",
+  "hora": 1000,
+  "fecha": 22
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Febrero",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 20
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Marzo",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 6
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Marzo",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 20
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Abril",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 24
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Mayo",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 29
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Junio",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 26
+ },
+ {
+  "materia": "Historia del Pensamiento Económico",
+  "mes": "Agosto",
+  "tribunal": "Cifuentes-Majersic-Sterner",
+  "hora": 1330,
+  "fecha": 21
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Febrero",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 21
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Marzo",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 7
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Marzo",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 21
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Abril",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 25
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Mayo",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 30
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Junio",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 24
+ },
+ {
+  "materia": "Historia Política Argentina",
+  "mes": "Agosto",
+  "tribunal": "Perez Alvarez-Ponce",
+  "hora": 1000,
+  "fecha": 22
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Febrero",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 20
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Marzo",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 6
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Marzo",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 20
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Abril",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 24
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Mayo",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 29
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Junio",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 26
+ },
+ {
+  "materia": "Historia Política Contemporánea",
+  "mes": "Agosto",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1400,
+  "fecha": 21
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Febrero",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 20
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Marzo",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 6
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Marzo",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 20
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Abril",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 24
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Mayo",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 29
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Junio",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 26
+ },
+ {
+  "materia": "Historia Política Latinoamericana",
+  "mes": "Agosto",
+  "tribunal": "Ponce-Perez Alvarez-Flores Torres",
+  "hora": 1000,
+  "fecha": 21
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Febrero",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 20
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Marzo",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 6
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Marzo",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 20
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Abril",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 24
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Mayo",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 29
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Junio",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 26
+ },
+ {
+  "materia": "Introducción al conocimiento de la Sociedad y el Estado ",
+  "mes": "Agosto",
+  "tribunal": "Aguilar-Ponce-Flores Torres",
+  "hora": 1430,
+  "fecha": 21
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Febrero",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 17
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Marzo",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 10
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Marzo",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 17
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Abril",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 21
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Mayo",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 26
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Junio",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 23
+ },
+ {
+  "materia": "Introducción al Pensamiento Científico",
+  "mes": "Agosto",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 18
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Febrero",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 18
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Marzo",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 11
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Marzo",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 18
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Abril",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 22
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Mayo",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 27
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Junio",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 24
+ },
+ {
+  "materia": "Opinión Publica",
+  "mes": "Agosto",
+  "tribunal": "Ramon-Simone-Muñoz",
+  "hora": 1530,
+  "fecha": 19
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Febrero",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 17
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Marzo",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 10
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Marzo",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 17
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Abril",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 21
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Mayo",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 26
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Junio",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 23
+ },
+ {
+  "materia": "Psicología Politica",
+  "mes": "Agosto",
+  "tribunal": "Simone-Ramon-Muñoz",
+  "hora": 1530,
+  "fecha": 18
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Febrero",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 200225
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Marzo",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 60325
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Marzo",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 200325
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Abril",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 24
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Mayo",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 29
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Junio",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 26
+ },
+ {
+  "materia": "Sistemas Políticos Comparados",
+  "mes": "Agosto",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 1030,
+  "fecha": 21
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Febrero",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 20
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Marzo",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 6
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Marzo",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 20
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Abril",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 24
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Mayo",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 29
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Junio",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 26
+ },
+ {
+  "materia": "Sociología",
+  "mes": "Agosto",
+  "tribunal": "Martinez-Muñoz-Obregon",
+  "hora": 1400,
+  "fecha": 21
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Febrero",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 200225
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Marzo",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 60325
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Marzo",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 200325
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Abril",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 24
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Mayo",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 29
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Junio",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 26
+ },
+ {
+  "materia": "Sociología Política",
+  "mes": "Agosto",
+  "tribunal": "Caminoa-Muñoz-Martinez",
+  "hora": 1400,
+  "fecha": 21
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Febrero",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 19
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Marzo",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 5
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Marzo",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 19
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Abril",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 23
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Mayo",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 28
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Junio",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 25
+ },
+ {
+  "materia": "Técnicas de Investigación Avanzadas",
+  "mes": "Agosto",
+  "tribunal": "Rius-Navarro-Vega",
+  "hora": 1130,
+  "fecha": 20
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Febrero",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 190225
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Marzo",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 50325
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Marzo",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 190325
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Abril",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 23
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Mayo",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 28
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Junio",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 25
+ },
+ {
+  "materia": "Técnicas de Investigación en Ciencias Sociales ",
+  "mes": "Agosto",
+  "tribunal": "Navarro-Rius-Vega",
+  "hora": 1130,
+  "fecha": 20
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Febrero",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 180225
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Marzo",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 110325
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Marzo",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 180325
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Abril",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 22
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Mayo",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 27
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Junio",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 24
+ },
+ {
+  "materia": "Teoría Política Contemporánea",
+  "mes": "Agosto",
+  "tribunal": "Sanz-Caminoa-Perez",
+  "hora": 830,
+  "fecha": 19
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Febrero",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 210225
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Marzo",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 70325
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Marzo",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 210325
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Abril",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 25
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Mayo",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 30
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Junio",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 24
+ },
+ {
+  "materia": "Teoría Política y Social I",
+  "mes": "Agosto",
+  "tribunal": "Perez-Soler-Aguilar",
+  "hora": 1530,
+  "fecha": 22
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Febrero",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 190225
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Marzo",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 50325
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Marzo",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 190325
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Abril",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 23
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Mayo",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 28
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Junio",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 25
+ },
+ {
+  "materia": "Teoría Política y Social II",
+  "mes": "Agosto",
+  "tribunal": "Caminoa-Sanz-Perez",
+  "hora": 1300,
+  "fecha": 20
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Febrero",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 200225
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Marzo",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 60325
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Marzo",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 200325
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Abril",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 24
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Mayo",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 29
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Junio",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 26
+ },
+ {
+  "materia": "Teoría Sociológica",
+  "mes": "Agosto",
+  "tribunal": "Muñoz-Martinez-Obregon",
+  "hora": 1030,
+  "fecha": 21
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Febrero",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 180225
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Marzo",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 110325
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Marzo",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 180325
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Abril",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 22
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Mayo",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 27
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Junio",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 24
+ },
+ {
+  "materia": "Teoría y Derecho Constitucional",
+  "mes": "Agosto",
+  "tribunal": "Rossio Coblier-Vallejos-Gonzalez",
+  "hora": 1400,
+  "fecha": 19
+ }
+]
