@@ -104,67 +104,8 @@ body {
     }
 }
 
-/* --- ESTILOS PARA LA TABLA DE EXÁMENES --- */
-.exam-table {
-    table-layout: auto; /* Permite que las columnas se ajusten automáticamente */
-    width: 100%;
-    border-collapse: collapse;
-}
-
-.exam-table th,
-.exam-table td {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    hyphens: auto;
-    padding: 0.75rem;
-    text-align: left;
-    border-bottom: 1px solid #e5e7eb;
-}
-
-.dark .exam-table th,
-.dark .exam-table td {
-    border-bottom-color: #374151;
-}
-
-.exam-table th {
-    background-color: #f9fafb;
-    font-weight: 600;
-    color: #374151;
-    position: sticky;
-    top: 0;
-    z-index: 10;
-}
-
-.dark .exam-table th {
-    background-color: #1f2937;
-    color: #d1d5db;
-}
-
-.exam-table tbody tr:hover {
-    background-color: #f3f4f6;
-}
-
-.dark .exam-table tbody tr:hover {
-    background-color: #374151;
-}
-
-/* Responsivo para tabla en móviles */
-@media (max-width: 768px) {
-    .exam-table {
-        font-size: 0.75rem;
-    }
-    
-    .exam-table th,
-    .exam-table td {
-        padding: 0.5rem;
-    }
-    
-    /* Ocultar columnas menos importantes en móviles */
-    .exam-table th:nth-child(3),
-    .exam-table td:nth-child(3) {
-        display: none;
-    }
-}
+/* --- ESTILOS PARA LA TABLA DE EXÁMENES (DEPRECATED) --- */
+/* Ya no se usan los estilos de tabla responsiva, se eliminan para mantener la limpieza */
 
 /* --- ESTILOS PARA CARDS Y MATERIAS --- */
 .materia-card {
@@ -270,4 +211,63 @@ body {
 
 .dark ::-webkit-scrollbar-thumb:hover {
     background: #9ca3af;
+}
+
+
+/* --- ESTILOS PARA LA GRILLA DE EXÁMENES (ENFOQUE CSS GRID) --- */
+
+.exam-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem; 
+}
+
+.exam-card {
+  background-color: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dark .exam-card {
+  background-color: #1f2937;
+  border-color: #374151;
+}
+
+.exam-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+.exam-card-title {
+  font-size: 1.125rem; /* 18px */
+  font-weight: 600;
+  color: #111827;
+  margin-bottom: 1rem;
+  word-wrap: break-word; 
+}
+
+.dark .exam-card-title {
+  color: #fff;
+}
+
+.exam-card-detail {
+  font-size: 0.875rem; /* 14px */
+  color: #4b5563;
+  margin-bottom: 0.5rem;
+}
+
+.dark .exam-card-detail {
+  color: #d1d5db;
+}
+
+.exam-card-detail strong {
+  color: #111827;
+  font-weight: 500;
+}
+
+.dark .exam-card-detail strong {
+  color: #f3f4f6;
 }

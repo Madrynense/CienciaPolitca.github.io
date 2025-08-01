@@ -193,8 +193,7 @@ function initCalendarioFinales() {
     function displayExamResults() {
         const selectedMonth = monthSelect.value;
         const selectedSubject = subjectSelect.value;
-
-        // Mantener la condición de filtrado para ambos filtros
+        
         if (!selectedMonth || !selectedSubject) {
             resultsDiv.innerHTML = "";
             return;
@@ -204,77 +203,37 @@ function initCalendarioFinales() {
             exam.mes === selectedMonth && exam.materia === selectedSubject
         );
 
+        resultsDiv.innerHTML = ''; // Limpiamos resultados anteriores
+
         if (filteredExams.length > 0) {
-            // Crear contenedor sin overflow-x para evitar scroll horizontal
-            const tableContainer = document.createElement('div');
-            tableContainer.className = 'w-full rounded-lg shadow-md bg-white dark:bg-gray-800';
-            
-            const table = document.createElement('table');
-            table.className = 'w-full border-collapse';
-            
-            // Crear encabezados con anchos responsivos
-            const thead = document.createElement('thead');
-            thead.className = 'bg-gray-50 dark:bg-gray-700';
-            
-            const headerRow = document.createElement('tr');
-            const headers = [
-                { text: 'Materia', width: 'w-1/5' },
-                { text: 'Fecha', width: 'w-1/12' },
-                { text: 'Mes', width: 'w-1/6' },
-                { text: 'Hora', width: 'w-1/12' },
-                { text: 'Tribunal', width: 'w-2/5' }
-            ];
-            
-            headers.forEach(header => {
-                const th = document.createElement('th');
-                th.className = `px-3 py-3 text-left text-xs font-medium text-gray-500 dark:text-gray-300 uppercase tracking-wider ${header.width}`;
-                th.textContent = header.text;
-                headerRow.appendChild(th);
-            });
-            
-            thead.appendChild(headerRow);
-            table.appendChild(thead);
-            
-            // Crear cuerpo de la tabla
-            const tbody = document.createElement('tbody');
-            tbody.className = 'divide-y divide-gray-200 dark:divide-gray-700';
-            
-            filteredExams.forEach((exam, index) => {
-                const row = document.createElement('tr');
-                row.className = index % 2 === 0 ? 'bg-white dark:bg-gray-800' : 'bg-gray-50 dark:bg-gray-700';
-                
-                row.innerHTML = `
-                    <td class="px-3 py-3 text-sm font-medium text-gray-900 dark:text-white break-words">${exam.materia}</td>
-                    <td class="px-3 py-3 text-sm text-gray-900 dark:text-gray-100 text-center">${extraerDia(exam.fecha)}</td>
-                    <td class="px-3 py-3 text-sm text-gray-500 dark:text-gray-400">${exam.mes}</td>
-                    <td class="px-3 py-3 text-sm text-gray-500 dark:text-gray-400 text-center">${formatarHora(exam.hora)}</td>
-                    <td class="px-3 py-3 text-sm text-gray-500 dark:text-gray-400 break-words">${exam.tribunal}</td>
+            // 1. Creamos un contenedor Grid en lugar de una tabla
+            const gridContainer = document.createElement('div');
+            gridContainer.className = 'exam-grid'; // Nueva clase para el contenedor
+
+            filteredExams.forEach(exam => {
+                // 2. Por cada examen, creamos una tarjeta (un div)
+                const card = document.createElement('div');
+                card.className = 'exam-card'; // Nueva clase para cada tarjeta
+
+                // 3. Llenamos la tarjeta con la información del examen
+                card.innerHTML = `
+                    <h3 class="exam-card-title">${exam.materia}</h3>
+                    <p class="exam-card-detail"><strong>Fecha:</strong> ${extraerDia(exam.fecha)} de ${exam.mes}</p>
+                    <p class="exam-card-detail"><strong>Hora:</strong> ${formatarHora(exam.hora)}</p>
+                    <p class="exam-card-detail"><strong>Tribunal:</strong> ${exam.tribunal}</p>
                 `;
-                
-                tbody.appendChild(row);
+
+                gridContainer.appendChild(card);
             });
-            
-            table.appendChild(tbody);
-            tableContainer.appendChild(table);
-            
-            resultsDiv.innerHTML = '';
-            resultsDiv.appendChild(tableContainer);
+
+            resultsDiv.appendChild(gridContainer);
         } else {
             resultsDiv.innerHTML = `
                 <div class="text-center py-8">
-                    <p class="text-gray-500 dark:text-gray-400">No se encontraron exámenes para la materia y mes seleccionados.</p>
+                    <p class="text-gray-500 dark:text-gray-400">No se encontraron exámenes para esta selección.</p>
                 </div>
             `;
         }
-    }
-
-    function getMonthNumber(monthName) {
-        const months = {
-            'Enero': 1, 'Febrero': 2, 'Marzo': 3, 'Abril': 4,
-            'Mayo': 5, 'Junio': 6, 'Julio': 7, 'Agosto': 8,
-            'Septiembre': 9, 'Octubre': 10, 'Noviembre': 11, 'Diciembre': 12
-        };
-        return months[monthName] || 1;
     }
 
     cargarDatosAutomaticamente();
