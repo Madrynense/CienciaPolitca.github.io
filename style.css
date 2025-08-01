@@ -104,8 +104,49 @@ body {
     }
 }
 
-/* --- ESTILOS PARA LA TABLA DE EXÁMENES (DEPRECATED) --- */
-/* Ya no se usan los estilos de tabla responsiva, se eliminan para mantener la limpieza */
+/* --- ESTILOS PARA LA TABLA DE EXÁMENES --- */
+.exam-table {
+    table-layout: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.exam-table th,
+.exam-table td {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.dark .exam-table th,
+.dark .exam-table td {
+    border-bottom-color: #374151;
+}
+
+.exam-table th {
+    background-color: #f9fafb;
+    font-weight: 600;
+    color: #374151;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.dark .exam-table th {
+    background-color: #1f2937;
+    color: #d1d5db;
+}
+
+.exam-table tbody tr:hover {
+    background-color: #f3f4f6;
+}
+
+.dark .exam-table tbody tr:hover {
+    background-color: #374151;
+}
 
 /* --- ESTILOS PARA CARDS Y MATERIAS --- */
 .materia-card {
@@ -131,12 +172,6 @@ body {
     text-wrap: balance;
 }
 
-/* Estados de loading */
-.loading {
-    opacity: 0.6;
-    pointer-events: none;
-}
-
 /* Animación de spinner */
 @keyframes spin {
     to {
@@ -146,41 +181,6 @@ body {
 
 .animate-spin {
     animation: spin 1s linear infinite;
-}
-
-/* Mejoras para accesibilidad */
-.sr-only {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    padding: 0;
-    margin: -1px;
-    overflow: hidden;
-    clip: rect(0, 0, 0, 0);
-    white-space: nowrap;
-    border: 0;
-}
-
-/* Estados de focus mejorados */
-*:focus-visible {
-    outline: 2px solid #4f46e5;
-    outline-offset: 2px;
-}
-
-/* Animaciones de entrada para cards */
-.card-enter {
-    animation: cardEnter 0.4s ease-out;
-}
-
-@keyframes cardEnter {
-    from {
-        opacity: 0;
-        transform: translateY(10px) scale(0.95);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0) scale(1);
-    }
 }
 
 /* Scrollbar personalizada */
@@ -213,61 +213,64 @@ body {
     background: #9ca3af;
 }
 
+/* --- ESTILOS PARA TABLA RESPONSIVA (VISTA DE TARJETA EN MÓVIL) --- */
+@media (max-width: 768px) {
+    .exam-table {
+        border: none;
+        font-size: 0.9rem;
+    }
+    
+    .exam-table thead {
+        display: none;
+    }
 
-/* --- ESTILOS PARA LA GRILLA DE EXÁMENES (ENFOQUE CSS GRID) --- */
+    .exam-table tr {
+        display: block;
+        margin-bottom: 1rem;
+        border-radius: 0.75rem;
+        border: 1px solid #e5e7eb;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+        background-color: #fff;
+        overflow: hidden;
+    }
 
-.exam-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem; 
-}
+    .dark .exam-table tr {
+        border-color: #374151;
+        background-color: #1f2937;
+    }
 
-.exam-card {
-  background-color: #fff;
-  border: 1px solid #e5e7eb;
-  border-radius: 0.75rem;
-  padding: 1.5rem;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
+    .exam-table td {
+        display: block;
+        text-align: right;
+        padding-left: 50%;
+        position: relative;
+        border-bottom: 1px solid #e5e7eb;
+    }
+    
+    .dark .exam-table td {
+        border-bottom-color: #374151;
+    }
 
-.dark .exam-card {
-  background-color: #1f2937;
-  border-color: #374151;
-}
+    .exam-table td:last-child {
+        border-bottom: none;
+    }
 
-.exam-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-}
+    .exam-table td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0.75rem;
+        width: 45%;
+        padding-right: 0.75rem;
+        text-align: left;
+        font-weight: 600;
+        color: #374151;
+    }
 
-.exam-card-title {
-  font-size: 1.125rem; /* 18px */
-  font-weight: 600;
-  color: #111827;
-  margin-bottom: 1rem;
-  word-wrap: break-word; 
-}
+    .dark .exam-table td::before {
+        color: #d1d5db;
+    }
 
-.dark .exam-card-title {
-  color: #fff;
-}
-
-.exam-card-detail {
-  font-size: 0.875rem; /* 14px */
-  color: #4b5563;
-  margin-bottom: 0.5rem;
-}
-
-.dark .exam-card-detail {
-  color: #d1d5db;
-}
-
-.exam-card-detail strong {
-  color: #111827;
-  font-weight: 500;
-}
-
-.dark .exam-card-detail strong {
-  color: #f3f4f6;
+    .exam-table td[data-label="Mes"] {
+        display: none;
+    }
 }
